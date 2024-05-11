@@ -32,7 +32,7 @@ This program is a simple graphical user interface (GUI) tool built with Python's
 
 ## Running the Program
 
-To execute the program, run the Python script `password_strength_checker.py`. This will launch the GUI application where you can interact with the password strength checker.
+To execute the program, run the Python script `main.py`. This will launch the GUI application where you can interact with the password strength checker.
 
 ```bash
-python password_strength_checker.py
+main.py
